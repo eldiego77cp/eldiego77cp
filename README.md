@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alejandro Fernández (@eldiego77cp)
+- 👀 I´m an Accountant and I have a Bachelor of Business Administration. I´m also interested in Economics and everything related to IT such as data science, programming, business intelligence and implementation and administration of ERP & CRM systems (especially in the Salesforce platform).
+- 🌱 I´m currently learning Python through the Python Fullstack Developer course (Codo a Codo 4.0)
+- 💞️ I’m looking to collaborate on phyton or salesforce projects
+- 📫 How to reach me ... simple, send an email to alejandroroberto.fernandez@gmail.com
